@@ -15,17 +15,7 @@ In this repository, I embark on a learning journey with npm packages to enhance 
 
 Below is a list of npm packages that I have explored so far:
 
-- Package A: [Link to package A](https://www.npmjs.com/package/package-a)
-  - Description: A brief description of package A and its functionalities.
-  - Code Examples: Some code snippets demonstrating how to use package A.
-
-- Package B: [Link to package B](https://www.npmjs.com/package/package-b)
-  - Description: A brief description of package B and its functionalities.
-  - Code Examples: Some code snippets demonstrating how to use package B.
-
-- Package C: [Link to package C](https://www.npmjs.com/package/package-c)
-  - Description: A brief description of package C and its functionalities.
-  - Code Examples: Some code snippets demonstrating how to use package C.
+- Package loglevel: [Link to package A](https://www.npmjs.com/package/loglevel)
 
 Please note that this is not an exhaustive list, and I will continue to update it as I explore more npm packages.
 
